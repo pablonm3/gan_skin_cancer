@@ -9,6 +9,11 @@ In this hackathon we have tried to generate synthetic skin cancer images using G
 * Download the data unsinf the following command
 `$sh download_data.sh`
 * Run the jupyter notebook `skin_cancer_data_gan.ipynb`
+
+### Team
+* [Vinay Datta](https://www.linkedin.com/in/vinaydatta2020/)
+* [Pablo mario](https://www.linkedin.com/in/pablonm/)
+* [Suman Baral](https://www.linkedin.com/in/suman-baral1/)
 `
 
 
